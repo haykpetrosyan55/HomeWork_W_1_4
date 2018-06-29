@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fon">#54ec18</color>
+    <color name="buttonColor">#d11a1a</color>
+    <color name="redColor">#ff0000</color>
+    <color name="orangeColor">#ff8c00</color>
+    <color name="yellowColor">#ffff00</color>
+    <color name="blueColor">#0000ff</color>
+    <color name="greenColor">#00ff00</color>
+    <color name="indigoColor">#4b0082</color>
+    <color name="violetColor">#800080</color>
+    <color name="blackColor">#1a1818</color>
+    <color name="textColorBlack">#020202</color>
+</resources>

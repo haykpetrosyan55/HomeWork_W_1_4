@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/fon"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/colors"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:text="@string/colors"
+        android:background="@color/buttonColor"
+        android:layout_margin="@dimen/buttonMarginSize" />
+
+    <Button
+        android:id="@+id/constraint"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:text="@string/constraint"
+        android:background="@color/buttonColor"
+        android:layout_margin="@dimen/buttonMarginSize"
+       android:layout_below="@+id/colors"/>
+
+    <Button
+        android:id="@+id/relative"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:text="@string/relative"
+        android:background="@color/buttonColor"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:layout_alignParentEnd="true"/>
+
+    <Button
+        android:id="@+id/frame"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:text="@string/frame"
+        android:background="@color/buttonColor"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/relative"/>
+
+    <Button
+        android:id="@+id/coordinator"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/buttonColor"
+        android:text="@string/coordinator"
+        android:layout_below="@+id/constraint"
+        android:layout_margin="@dimen/buttonMarginSize"/>
+
+</RelativeLayout>

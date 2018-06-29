@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HomeWork_W_1_4</string>
+    <string name="colors">COLORS</string>
+    <string name="constraint">Constraint</string>
+    <string name="relative">Relative</string>
+    <string name="frame">Frame</string>
+    <string name="coordinator">Coordinator</string>
+    <string name="redButton">red</string>
+    <string name="orangeButton">orange</string>
+    <string name="yellowButton">yellow</string>
+    <string name="blueButton">blue</string>
+    <string name="greenButton">green</string>
+    <string name="indigoButton">indigo</string>
+    <string name="violetButton">violet</string>
+    <string name="i_hate_android">I hate Android</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="_055_05_00_29">055 05 00 29</string>
+    <string name="petrosyan_hayk">Petrosyan Hayk</string>
+    <string name="_094_810_110">094 810 110</string>
+    <string name="martirosyan_taron">Martirosyan Taron</string>
+    <string name="hayk5555_list_ru">hayk5555@list.ru</string>
+    <string name="homework">HomeWork</string>
+    <string name="title_activity_coordinator">Coordinator</string>
+    <string name="textCoordinator">Мозг жаждет новых впечатлений. Он постоянно ищет, анализирует, ожидает чего-то необычного. Он так устроен, и это помогает нам выжить. Как наш мозг поступает со всеми обычными, повседневными вещами? Он всеми силами пытается оградиться от них, чтобы они не мешали его настоящей работе — сохранению того, что действительно важно. Мозг не считает нужным сохранять скучную информацию. Она не проходит фильтр, отсекающий «очевидно несущественное». Но как же мозг узнает, что важно? Представьте, что вы выехали на прогулку и вдруг прямо перед вами появляется тигр. Что происходит в вашей голове и теле? Активизируются нейроны. Вспыхивают эмоции. Происходят химические реакции. И тогда ваш мозг понимает... Конечно, это важно! Не забывать! А теперь представьте, что вы находитесь дома или в библиотеке — в теплом, уютном месте, где тигры не водятся. Вы учитесь — готовитесь к экзамену. Или пытаетесь освоить сложную техническую тему, на которую вам выделили неделю... максимум десять дней. И тут возникает проблема: ваш мозг пытается оказать вам услугу. Он старается сделать так, чтобы на эту очевидно несущественную информацию не тратились драгоценные ресурсы. Их лучше потратить на что-нибудь важное. На тигров, например. Или на то, что к огню лучше не прикасаться. Или что на лыжах не стоит кататься в футболке и шортах. Нет простого способа сказать своему мозгу: «Послушай, мозг, я тебе, конечно, благодарен, но какой бы скучной ни была эта книга и пусть мой датчик эмоций сейчас на нуле, я хочу запомнить то, что здесь написано». Мы знаем, о чем вы думаете</string>
+</resources>

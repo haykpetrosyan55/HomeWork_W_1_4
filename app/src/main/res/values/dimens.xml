@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="landButtonSize">250dp</dimen>
+    <dimen name="buttonMarginSize">20dp</dimen>
+    <dimen name="relativeHeight">70dp</dimen>
+    <dimen name="relativeMarginSize">10dp</dimen>
+    <dimen name="myTextSize">30dp</dimen>
+    <dimen name="textHeight">50dp</dimen>
+    <dimen name="colorTextSize">40sp</dimen>
+    <dimen name="colorText">40sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">20dp</dimen>
+    <dimen name="textViewWidth">150dp</dimen>
+    <dimen name="textViewHeight">25dp</dimen>
+
+</resources>

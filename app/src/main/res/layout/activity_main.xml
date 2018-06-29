@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fon"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/colors"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:background="@color/buttonColor"
+        android:text="@string/colors"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/constraint"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:background="@color/buttonColor"
+        android:text="@string/constraint" />
+
+    <Button
+        android:id="@+id/relative"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:background="@color/buttonColor"
+        android:text="@string/relative" />
+
+    <Button
+        android:id="@+id/frame"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:background="@color/buttonColor"
+        android:text="@string/frame" />
+
+    <Button
+        android:id="@+id/coordinator"
+        android:layout_width="@dimen/landButtonSize"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/buttonMarginSize"
+        android:background="@color/buttonColor"
+        android:text="@string/coordinator" />
+
+</LinearLayout>
